@@ -1,7 +1,12 @@
+<details>
+<summary>Jelly 파트</summary>
+<div markdown="1">
+
 # 🟣 Jelly
-## jelly 브랜치
+### jelly 브랜치
 * https://github.com/mock-rc14/bunjang_server_jelly_rich/tree/jelly
 * https://github.com/mock-rc14/bunjang_server_jelly_rich/tree/jelly2
+
 ## 2023-03-04 진행상황
 
 * 노션 기획서 작성
@@ -153,11 +158,20 @@
 - [feat] 포인트 조회, 포인트 사용 내역 조회 논리적 유효성 검사 추가
 
 ---
+</div>
+</details>
 
 # 🟠 Rich
 ## rich 브랜치
 * https://github.com/mock-rc14/bunjang_server_jelly_rich/tree/rich
 * https://github.com/mock-rc14/bunjang_server_jelly_rich/tree/rich_2
+
+### API 명세서 (스프레드시트)
+* https://docs.google.com/spreadsheets/d/17IACgoVHJp02sp9a8zlwbc5Ki6c_NUKmpPFjw3nY6Ys/edit#gid=0
+
+### 프레젠테이션 영상
+* https://drive.google.com/file/d/1s9-oimm9b-UDIEJUz-z7yBeb5sBUitMo/view?usp=sharing
+
 ## 2023-03-04 진행상황
 
 * 노션 기획서 작성
